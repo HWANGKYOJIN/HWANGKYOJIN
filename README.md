@@ -3,14 +3,7 @@
 
 
 <div align='center'>   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)   
 
-
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
 
 
 
@@ -30,15 +23,16 @@
 </br>
 </br>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Backend 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-D24939?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GraphQL-FAFAFA?style=flat-square&logo=GraphQL&logoColor=E10098"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3655FF?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp    
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp
+  
+  <h3> 🛠 DB </h3>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+
   
 </p>
 
@@ -49,6 +43,18 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
 </p>
+
+
+#
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)   
+
+
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
 
 
 
