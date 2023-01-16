@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KyoJin Hwang&fontSize=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
+
+
+<div align='center'>   
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)   
+
+
+
+#
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
 
 
 
@@ -47,3 +57,5 @@
   <a href="https://velog.io/@hwangkyojin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
 
 </p>
+
+</div>
