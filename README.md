@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KyoJin Hwang&fontSize=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANGKYOJIN&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANGKYOJIN&layout=compact&theme=radical)
 
 
 
