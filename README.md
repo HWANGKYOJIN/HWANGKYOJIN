@@ -7,9 +7,9 @@
 
 <h3 align='center'> 👋 안녕하세요. 백엔드개발자 황교진입니다. </h3>
   
-<h3 align='center'> user friendly한 개발을 지향합니다. </h3>
+<h3 align='center'> 저는 user friendly한 개발을 지향합니다. </h3>
 
-<h3 align='center'> 호기심이 많습니다. </h3>
+<h3 align='center'> 저는 호기심이 많습니다. </h3>
 
 <h3 align='center'> 읽기 편한 코드작성을 지향합니다. </h3>
 
