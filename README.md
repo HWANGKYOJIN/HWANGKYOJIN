@@ -9,7 +9,7 @@
 
 
 
-<h3 align='center'> 👋 안녕하세요. 백엔드개발자 황교진입니다. </h3>
+<h3 align='center'> 👋 안녕하세요. 강아지(Docs)를 사랑하는 백엔드개발자 황교진입니다. </h3>
   
 <h3 align='center'> 저는 user friendly한 개발을 지향합니다. </h3>
 
